@@ -1,0 +1,17 @@
+1. termux-setup-storage
+2. apt upgrade -y
+3. apt update -y
+4. pkg install git -y
+5. pkg install unzip -y
+6. git clone https://github.com/revolt144/rvt-bot
+7. cd rvt-bot
+8. ls
+9. pkg install wget -y (jika e unable jalan kan perintah " apt-get update"
+10. pkg install ffmpeg -y
+11. pkg install nodejs -y
+12. npm i -g cwebp
+13. npm i -g ytdl
+14. npm i
+15. npm i got
+16. node index.js
+ 
